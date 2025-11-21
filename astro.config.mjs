@@ -3,5 +3,5 @@ import { defineConfig } from 'astro/config';
 
 // https://astro.build/config
 export default defineConfig({
-	site: 'https://4DimK.github.io',
+	site: 'https://4dimk.github.io',
 });
